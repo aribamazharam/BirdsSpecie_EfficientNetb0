@@ -2,11 +2,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-  <meta charset="UTF-8">
-  <title>BirdsSpecie_EfficientNetb0</title>
-</head>
-
 <body>
   <h1># BirdsSpecie_EfficientNetb0</h1>
   <p>Short project description goes here.</p>
