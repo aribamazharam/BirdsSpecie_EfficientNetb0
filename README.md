@@ -3,14 +3,14 @@
 <html>
 
 <body>
-  <h1># BirdsSpecie_EfficientNetb0</h1>
-  <p>Short project description goes here.</p>
+  <h1> BirdsSpecie_EfficientNetb0</h1>
 
   <h2>Table of Contents</h2>
   <ul>
     <li><a href="#introduction">Introduction</a></li>
+    <li><a href="#Dataset>Contributing</a></li>
     <li><a href="#results">Results</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    
   </ul>
 
   <h2 id="introduction">Introduction</h2>
@@ -23,6 +23,9 @@
     The dataset used for this project was obtained from Kaggle, a renowned platform for data science competitions and
     datasets. It comprises a diverse collection of bird images, representing various bird species from around the world.
   </p>
+  <p>
+    The dataset used for this project was obtained from
+    <a href="https://www.kaggle.com/dataset-url" target="_blank">Kaggle</a>
 
   <h2>Key Features:</h2>
   <ul>
@@ -46,6 +49,7 @@
   <p>
     The model achieved impressive results after 20 epochs of training. Below are the key metrics obtained:
   </p>
+
 
   <table>
     <tr>
